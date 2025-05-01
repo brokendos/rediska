@@ -1,0 +1,27 @@
+header {
+  background-color: #000000;
+  color: white;
+  font-family: Tahoma;
+}
+
+body {
+  color: black;
+  font-family: Verdana;
+}
+
+.cool {
+  background-color: black;
+  opacity: 0.5;
+  color: white;
+  width: 400px;
+  padding: 5px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.cool:hover {
+  opacity: 1;
+}
